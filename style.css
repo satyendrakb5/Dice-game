@@ -1,0 +1,44 @@
+.container {
+  margin: auto;
+  text-align: center;
+  width: 70%;
+}
+body {
+  background-image: url("./images/colorful-triangle-background_23-2148384583.avif");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dice {
+  text-align: center;
+  display: inline-block;
+}
+
+h1 {
+  margin: 50px;
+  font-family: "Times New Roman", Times, serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: white;
+}
+footer {
+  margin-top: 6%;
+  color: black;
+  text-align: center;
+  font-family: "Times New Roman", Times, serif;
+}
+img {
+  width: 80%;
+}
+
+#p1 {
+  margin-right: 5px;
+  font-size: 2rem;
+  color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+}
+#p2 {
+  font-size: 2rem;
+  color: aliceblue;
+  font-family: "Times New Roman", Times, serif;
+}
